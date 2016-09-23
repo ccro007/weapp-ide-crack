@@ -24,6 +24,10 @@
   * 百度: https://pan.baidu.com/s/1pLTKIqJ （密码: iswg）
   * 360: https://yunpan.cn/ckvXjEbnFYMSC （提取码：f9ca）
 
+* 开发工具 v0.9 懒人破解版
+  * Win版：https://pan.baidu.com/s/1c16kyZY（提取码：9i6c）
+  * Mac版：https://pan.baidu.com/s/1i57CuCt（提取码：isj6） 
+
 * Demo源代码
   * 百度: https://pan.baidu.com/s/1o8hJFuU （密码: bsky）
   * 360: https://yunpan.cn/ckvXAacJjvsgR （提取码：3327）
@@ -42,8 +46,10 @@
 | 2016.09.22 | QFish | 补充常见问题 |
 
 ##破解步骤
+> 文件替换若不明白或者嫌麻烦，可使用前文“懒人破解版”安装包
 
 ***Mac测试可用，Windows测试可用***
+
 
 1. 下载开发工具，并安装（***注意：一定要安装0.9版本***）
 2. 打开『微信Web开发者工具』的程序目录
